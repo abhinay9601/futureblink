@@ -1,0 +1,15 @@
+# Ignore the .env file that contains sensitive data
+.env
+
+# Ignore the node_modules directory (this can be reinstalled from package.json)
+node_modules/
+
+# Optional: Ignore log files
+*.log
+
+# Optional: Ignore IDE/editor specific files (example for VSCode)
+.vscode/
+
+# Optional: Ignore build directories or compiled files
+/dist
+/build
